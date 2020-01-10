@@ -196,7 +196,7 @@ just go to https://fortnite-api.com/profile and register with your discord accou
 > The bot will remove you as a friend  
   
 > ?friends  
-> The bot will write in the chat how many friends he has  
+> The bot will write in the chat how many friends the bot has  
   
 > ?blocked  
-> The bot will write in the chat how many users he blocked  
+> The bot will write in the chat how many users the bot has blocked  
